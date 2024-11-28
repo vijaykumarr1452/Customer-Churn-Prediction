@@ -51,6 +51,26 @@ print(classification_report(y_test, y_pred))
 
 ---
 
+## Predictions & Performance
+
+#### Linear Regression
+
+![PNG](LinearRegression.png)
+
+#### Logistic Regression
+
+![PNG](LogisticRegression.png)
+
+#### Decision Tree
+
+![PNG](decision_tree.png)
+
+#### Random Forest 
+
+![PNG](Random_forest.png)
+
+---
+
 ## Insights and Conclusion
 
 - **Significant Indicators**: Key factors contributing to churn include customer service interactions, contract type, and monthly charges.
